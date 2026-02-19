@@ -30,4 +30,4 @@ The battery supplies 3V to the circuit. Current flows from the positive terminal
 ## Tool Used
 
 Tinkercad (https://www.tinkercad.com)
-Tinkercad (https://www.tinkercad.com)
+
