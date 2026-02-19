@@ -14,6 +14,7 @@ This is a self-learning exercise to understand basic electronics concepts using 
 
 The battery supplies 3V to the circuit. Current flows from the positive terminal through the resistor, then through the LED, and back to the negative terminal. The resistor protects the LED by limiting the current.
 
+
 ## Resistor Calculation
 
 * R = (Supply Voltage − LED Voltage) ÷ LED Current
